@@ -62,7 +62,9 @@ Features
 
 Improvements & Future Plans  
 - Better error handling for API limits and missing data  
-- More advanced models (LSTM, Transformer architectures)  
+- Use ANN
+- -Add questionairee
+- in general update to my more complete recent model 
 - Support for multiple stocks, not just TSLA  
 - Hyperparameter tuning for better accuracy  
 
