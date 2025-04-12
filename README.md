@@ -59,16 +59,20 @@ Features
 - TradingView widget for live charts  
 
 ---
+Newly added features
 
-Improvements & Future Plans  
-- Better error handling for API limits and missing data  
-- Use ANN
-- -Add questionairee
-- in general update to my more complete recent model 
-- Support for multiple stocks, not just TSLA  
-- Hyperparameter tuning for better accuracy  
-
+Updated code
+now using ANN unlike previous versions which were using random forest
+removed previous useless questions(will be reimplemented with proper system
 ---
 
-Feel free to fork this, experiment, and improve on it. If you end up with something better or more interesting, I’d love to hear about it.  
+Improvements & Future Plans  
+
+- -Add questionairee
+- Support for multiple stocks, not just TSLA  
+- Hyperparameter tuning for better accuracy  
+- Test LSTM and see how it performs compared to current model
+---
+
+Feel free to fork this, experiment, and improve on it. If you end up with something better or more interesting.
 
