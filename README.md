@@ -69,7 +69,7 @@ removed previous useless questions(will be reimplemented with proper system
 Improvements & Future Plans  
 
 - -Add questionairee
-- Support for multiple stocks, not just TSLA  ( wont be adding a in 
+- Support for multiple stocks, not just TSLA  ( wont be adding a in use feature as you can hardcode it with one line to show a different stock symbol)
 - Hyperparameter tuning for better accuracy  
 - Test LSTM and see how it performs compared to current model( this is done and i need to update this repo)
 ---
