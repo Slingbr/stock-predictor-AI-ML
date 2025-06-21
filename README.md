@@ -69,9 +69,9 @@ removed previous useless questions(will be reimplemented with proper system
 Improvements & Future Plans  
 
 - -Add questionairee
-- Support for multiple stocks, not just TSLA  
+- Support for multiple stocks, not just TSLA  ( wont be adding a in 
 - Hyperparameter tuning for better accuracy  
-- Test LSTM and see how it performs compared to current model
+- Test LSTM and see how it performs compared to current model( this is done and i need to update this repo)
 ---
 
 Feel free to fork this, experiment, and improve on it. If you end up with something better or more interesting.
